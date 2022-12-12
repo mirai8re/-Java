@@ -1,0 +1,58 @@
+
+Mon Dec 12 18:00:33 MSK 2022
+Input file: input.csv
+Index 10 out of bounds for length 10
+	Lab7.Run.readCompany(Run.java:34)
+	Lab7.Run.fillCompanies(Run.java:25)
+	Lab7.ProcessLogger.runProcess(ProcessLogger.java:24)
+	Lab7.Main.main(Main.java:9)
+
+Mon Dec 12 18:10:43 MSK 2022
+Input file: input.csv
+Index -1 out of bounds for length 24
+	java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	java.base/java.lang.String.checkIndex(String.java:4557)
+	java.base/java.lang.AbstractStringBuilder.deleteCharAt(AbstractStringBuilder.java:957)
+	java.base/java.lang.StringBuilder.deleteCharAt(StringBuilder.java:298)
+	Lab7.Run.outputJSON(Run.java:50)
+	Lab7.ProcessLogger.runProcess(ProcessLogger.java:25)
+	Lab7.Main.main(Main.java:9)
+
+Mon Dec 12 18:27:53 MSK 2022
+Input file: input.csv
+Wrong phone number! Please, open "input.csv" and enter correct info.
+	Lab7.Check.checkPhone(Check.java:72)
+	Lab7.Run.readCompany(Run.java:33)
+	Lab7.Run.fillCompanies(Run.java:25)
+	Lab7.ProcessLogger.runProcess(ProcessLogger.java:24)
+	Lab7.Main.main(Main.java:9)
+
+Mon Dec 12 18:44:35 MSK 2022
+Input file: input.csv
+Wrong phone number! Please, open "input.csv" and enter correct info.
+	Lab7.Check.checkPhone(Check.java:72)
+	Lab7.Run.readCompany(Run.java:33)
+	Lab7.Run.fillCompanies(Run.java:25)
+	Lab7.ProcessLogger.runProcess(ProcessLogger.java:24)
+	Lab7.Main.main(Main.java:9)
+
+Mon Dec 12 18:48:42 MSK 2022
+Input file: input.csv
+Wrong phone number! Please, open "input.csv" and enter correct info.
+	Lab7.Check.checkPhone(Check.java:72)
+	Lab7.Run.readCompany(Run.java:33)
+	Lab7.Run.fillCompanies(Run.java:25)
+	Lab7.ProcessLogger.runProcess(ProcessLogger.java:24)
+	Lab7.Main.main(Main.java:9)
+
+Mon Dec 12 19:04:05 MSK 2022
+Input file: input.csv
+Output files: "output.json", "output.xml"
+Writing file: "requests.txt"
+	Success!
