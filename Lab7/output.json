@@ -1,0 +1,19 @@
+{
+	"Companies": [
+		{
+			"name": "BooCom",
+			"shortTitle": "BC",
+			"dateUpdate": "2008-11-23",
+			"address": "Moscow",
+			"dateFoundation": "2003-11-11",
+			"countEmployees": 879,
+			"auditor": "Anna Mironova",
+			"phone": "+37098650201",
+			"email": "fiz.mironova@bsu.by",
+			"branch": "Books",
+			"activity": "Books",
+			"link": "https://www.blackrock.com/corporate/global-directory"
+		}
+
+	]
+}

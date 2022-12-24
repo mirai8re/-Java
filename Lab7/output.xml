@@ -1,0 +1,16 @@
+<Companies>
+	<Company>
+		<name>BooCom</name>
+		<shortTitle>BC</shortTitle>
+		<dateUpdate>2008-11-23</dateUpdate>
+		<address>Moscow</address>
+		<dateFoundation>2003-11-11</dateFoundation>
+		<countEmployees>879</countEmployees>
+		<auditor>Anna Mironova</auditor>
+		<phone>+37098650201</phone>
+		<email>fiz.mironova@bsu.by</email>
+		<branch>Books</branch>
+		<activity>Books</activity>
+		<link>https://www.blackrock.com/corporate/global-directory</link>
+	</Company>
+</Companies>
